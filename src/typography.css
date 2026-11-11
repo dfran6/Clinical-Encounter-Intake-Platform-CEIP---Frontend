@@ -1,0 +1,152 @@
+/* Readable type scale shared by the public project page and signed-in workspace. */
+.landing-nav nav a{font-size:12px}
+.landing-nav .button{font-size:12px}
+.hero-kicker{font-size:10px}
+.hero-lede{font-size:15px;line-height:1.75}
+.hero-actions .button,.text-link{font-size:12px}
+.hero-proof span{font-size:10px}
+.visual-topline{font-size:9px}
+.live-status{font-size:8px}
+.flow-step small{font-size:8px}
+.flow-step strong{font-size:11px}
+.flow-step p{font-size:9px}
+.mini-result>span{font-size:8px}
+.mini-result>div{font-size:9px}
+.mini-result>div>b{font-size:8px}
+.visual-caption{font-size:9px}
+.landing-strip span{font-size:11px}
+.section-intro p{font-size:13px;line-height:1.75}
+.underlined-link{font-size:12px}
+.overview-card>.eyebrow{font-size:8px}
+.overview-card h3{font-size:13px}
+.overview-card p{font-size:11px;line-height:1.7}
+.architecture-heading>p{font-size:11px}
+.architecture-node small{font-size:8px}
+.architecture-node strong{font-size:10px}
+.architecture-support span{font-size:9px}
+.tools-heading p,.decisions-heading>p,.roadmap-heading>p{font-size:11px}
+.tool-tag{font-size:8px}
+.tool-card h3{font-size:14px}
+.tool-card p{font-size:11px;line-height:1.65}
+.tool-footer{font-size:10px}
+.constraint-mark{font-size:9px}
+.constraint-card h3{font-size:12px}
+.constraint-card p{font-size:11px;line-height:1.7}
+.roadmap-list>div>span,.roadmap-list>div>b{font-size:9px}
+.roadmap-list section strong{font-size:12px}
+.roadmap-list section p{font-size:10px;line-height:1.65}
+.landing-cta .eyebrow{font-size:9px}
+.landing-cta h2{font-size:28px}
+.landing-cta p{font-size:11px}
+.button-light{font-size:12px}
+.landing-footer{font-size:10px}
+.landing-footer .brand small{font-size:9px}
+.back-to-overview{font-size:11px}
+
+.nav-item{font-size:13px}
+.workspace-name strong{font-size:12px}
+.workspace-name small,.privacy-card p{font-size:10px}
+.privacy-card strong{font-size:11px}
+.user-info strong{font-size:10px}
+.user-info small{font-size:10px}
+.top-user,.breadcrumb strong{font-size:12px}
+.environment-pill{font-size:9px}
+.page-heading h1{font-size:29px}
+.page-heading p{font-size:13px;line-height:1.55}
+.eyebrow,.nav-label{font-size:10px}
+.button{font-size:12px}
+.button-small{font-size:11px}
+.metric-card span{font-size:11px}
+.metric-card strong{font-size:23px}
+.panel-heading h3{font-size:15px}
+.panel-heading p{font-size:11px}
+.patient-search input{font-size:11px}
+.patient-main strong{font-size:12px}
+.patient-main small{font-size:10px}
+.panel-foot{font-size:10px}
+.summary-item small{font-size:8px}
+.summary-item strong{font-size:11px}
+.summary-item code{font-size:10px}
+.subsection-heading,.subsection-heading>span:last-child{font-size:10px}
+.encounter-card strong{font-size:11px}
+.encounter-card small,.empty-inline{font-size:10px}
+.note-composer>label,.form-grid label,.login-form label,.analytics-filter label{font-size:11px}
+.note-composer textarea{font-size:12px;line-height:1.6}
+.composer-foot>span{font-size:10px}
+.note-title strong{font-size:11px}
+.note-title small{font-size:10px}
+.raw-note{font-size:12px;line-height:1.7}
+.extraction-heading>span:first-child{font-size:9px}
+.result-badge{font-size:9px}
+.result-group>small{font-size:9px}
+.result-line{font-size:10px}
+.result-line code{font-size:9px}
+.result-empty,.vital-chips span,.negated-line,.not-extracted{font-size:10px}
+.vital-chips span{font-size:9px}
+.empty-workspace h3{font-size:15px}
+.empty-workspace>p,.step-hint,.select-encounter-hint{font-size:11px;line-height:1.6}
+.empty-state strong{font-size:11px}
+.empty-state p{font-size:10px;line-height:1.6}
+.form-grid input,.analytics-filter input,.login-form input{font-size:12px}
+.notice{font-size:11px;line-height:1.5}
+.filter-copy strong{font-size:12px}
+.filter-copy small{font-size:10px}
+.analytics-panel .panel-heading h3{font-size:15px}
+.analytics-panel .panel-heading p{font-size:10px}
+.table-head{font-size:9px}
+.table-row,.table-row code{font-size:11px}
+.chart-y-labels,.bar-value{font-size:9px}
+.bar-column small{font-size:8px}
+.data-footnote{font-size:10px}
+.audit-table-head{font-size:9px}
+.audit-row,.audit-row time{font-size:10px}
+.audit-action strong{font-size:10px}
+.audit-action small{font-size:9px}
+.audit-row code{font-size:9px}
+.audit-note>span strong{font-size:11px}
+.audit-note>span small{font-size:10px}
+.loading-row{font-size:11px}
+.login-form h2{font-size:29px}
+.muted{font-size:12px;line-height:1.6}
+.login-note,.login-footer{font-size:10px}
+
+.admin-summary strong{font-size:13px}
+.admin-summary p{font-size:11px;line-height:1.65}
+.admin-summary-count small{font-size:8px}
+.admin-panel .panel-heading h3{font-size:15px}
+.admin-panel .panel-heading p{font-size:10px}
+.admin-panel .panel-heading .eyebrow{font-size:9px}
+.admin-form label{font-size:11px}
+.admin-form input,.admin-form select{font-size:11px}
+.tenant-main strong,.staff-main strong{font-size:11px}
+.tenant-main small,.staff-main small{font-size:9px}
+.tenant-row>code{font-size:9px}
+.role-pill,.account-status{font-size:9px}
+.admin-context{font-size:10px}
+
+@media(max-width:850px){
+  .landing-nav nav a{font-size:10px}
+  .architecture-node strong{font-size:9px}
+  .architecture-support span{font-size:8px}
+}
+@media(max-width:600px){
+  .hero-lede{font-size:13px}
+  .hero-kicker{font-size:8px}
+  .landing-strip span{font-size:9px}
+  .section-intro p{font-size:12px}
+  .overview-card h3,.tool-card h3{font-size:12px}
+  .overview-card p,.tool-card p,.constraint-card p{font-size:10px}
+  .architecture-node small{font-size:7px}
+  .architecture-node strong{font-size:8px}
+  .architecture-arrow{font-size:13px}
+  .architecture-support span{font-size:8px}
+  .roadmap-list section p{font-size:9px}
+  .landing-cta p{font-size:10px}
+  .page-heading h1{font-size:24px}
+  .page-heading p{font-size:11px}
+  .panel-heading h3,.analytics-panel .panel-heading h3{font-size:13px}
+  .patient-main strong{font-size:11px}
+  .raw-note{font-size:11px}
+  .summary-item strong{font-size:10px}
+  .admin-form label{font-size:10px}
+}
